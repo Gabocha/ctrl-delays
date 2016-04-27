@@ -1,3 +1,4 @@
-app:
-    resource: "@AppBundle/Controller/"
+teknei_ctrl:
+    resource: "@TekneiCtrlBundle/Controller/"
     type:     annotation
+    prefix:   /
